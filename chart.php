@@ -1,7 +1,7 @@
 <html>
   <head>
     Data collected from <a href=https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/>usafacts.org</a> on 06/25/2020: Confirmed cases by county<br>
-    <a href="covid_confirmed_usafacts.csv">Raw CSV file</a><br>
+    Source: <a href="https://github.com/kevinmgh/coronavirus_benford/blob/master/chart.php">This script</a>, <a href="covid_confirmed_usafacts.csv">Raw CSV file</a><br>
     Showing the frequency distribution of the first digit of coronavirus cases in US counties as of 6/23/20 (the last entry in the csv file generated as of 06/25)<br>
     To see if if follows <a href=https://en.wikipedia.org/wiki/Benford%27s_law>Benford's Law</a><br>
     For an accessible layman's explanation, see <a href=https://www.youtube.com/watch?v=XXjlR2OK1kM>this video</a><br>
